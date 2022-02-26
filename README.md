@@ -1,2 +1,2 @@
-# dnsf
+# pi-hole
 DNS Filter
